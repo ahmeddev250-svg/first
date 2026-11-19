@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "cabinet-dr-khaoula-karim-orl",
-=======
-  "name": "dr-khaoula-karim-orl",
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -13,29 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "lucide-react": "^0.460.0",
-=======
-    "lucide-react": "^1.16.0",
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15",
     "vite": "^6.0.1"
-=======
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3",
-    "vite": "^5.2.11"
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
   }
 }
