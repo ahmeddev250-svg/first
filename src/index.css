@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-<<<<<<< HEAD
 @layer base {
   html[lang='fr'] body {
     font-family: 'Plus Jakarta Sans', sans-serif;
@@ -14,29 +13,19 @@
 }
 
 @layer components {
-=======
-@layer utilities {
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
   .glass-card {
     background: rgba(255, 255, 255, 0.72);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     border: 1px solid rgba(255, 255, 255, 0.75);
-<<<<<<< HEAD
     box-shadow: 0 8px 32px rgba(112, 54, 111, 0.08);
     border-radius: 20px;
   }
 
-=======
-    box-shadow: 0 10px 35px rgba(20, 184, 166, 0.08);
-  }
-  
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
   .glass-navigation {
     background: rgba(255, 255, 255, 0.82);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-<<<<<<< HEAD
     border-bottom: 1px solid rgba(112, 54, 111, 0.1);
     box-shadow: 0 4px 24px rgba(112, 54, 111, 0.06);
   }
@@ -56,20 +45,3 @@
     radial-gradient(at 90% 20%, rgba(165, 116, 163, 0.18) 0px, transparent 50%),
     radial-gradient(at 50% 85%, rgba(112, 54, 111, 0.08) 0px, transparent 55%);
 }
-=======
-    border: 1px solid rgba(255, 255, 255, 0.6);
-    box-shadow: 0 4px 24px rgba(15, 23, 42, 0.06);
-  }
-
-  .glass-btn {
-    background: rgba(20, 184, 166, 0.9);
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;
-  }
-  .glass-btn:hover {
-    background: rgba(13, 148, 136, 1);
-    transform: translateY(-1px);
-    box-shadow: 0 6px 20px rgba(20, 184, 166, 0.3);
-  }
-}
->>>>>>> 676164b98c0ff65297d7ed4e40989dd0fea00cb4
